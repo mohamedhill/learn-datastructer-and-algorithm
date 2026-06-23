@@ -12,3 +12,4 @@ Merge 2 Sorted Lists - A Fundamental Merge Sort Subroutine ("Merge Two Sorted Li
 https://www.youtube.com/watch?v=GfRQvf7MB3k
 
 
+linked list mni 9rit 3lihomm homa data structer bhal array walakin fi memory array kaychad blays mtab3in lkol vlaue ya3ni kaykono mtab3in fu socket dyal memory 3aks linked list li kaykono mwaz3in w kola wahda fiha value w pionter 3la next node li tab3aha 
